@@ -1,0 +1,35 @@
+[33mcommit d406a6e7b4be9310f43d70f6d8921dfd5aea52b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Xiangyu <1303683902@qq.com>
+Date:   Tue Jan 16 15:26:40 2024 +0800
+
+    delete the LICENSE file
+
+[33mcommit b2fa41b5132f83d91cfea95a8c563ea605fd79db[m
+Author: Xiangyu <1303683902@qq.com>
+Date:   Tue Jan 16 15:23:51 2024 +0800
+
+    change the type of LICENSE
+
+[33mcommit e17e3bdc6301037e7f682abd29b857c199e639b0[m
+Author: Xiangyu <1303683902@qq.com>
+Date:   Tue Jan 16 15:22:06 2024 +0800
+
+    understand how stage works
+
+[33mcommit cd5f7b59f0c9e2ad32f89d3fe6cff5c2a9a3672d[m
+Author: Xiangyu <1303683902@qq.com>
+Date:   Tue Jan 16 13:42:47 2024 +0800
+
+    append GPL
+
+[33mcommit 59ed6358bc1dcda9b0343649a67e2b27623a1ace[m
+Author: Xiangyu <1303683902@qq.com>
+Date:   Tue Jan 16 13:39:55 2024 +0800
+
+    add distributed
+
+[33mcommit e59c5e2bc7ad36981c593fc03cfaf63a50f010ef[m
+Author: Xiangyu <1303683902@qq.com>
+Date:   Tue Jan 16 13:31:38 2024 +0800
+
+    wrote a readme file
